@@ -1,4 +1,11 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats-self-eta-13.vercel.app/api?username=dn285&show_icons=true&theme=transparent&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats-self-eta-13.vercel.app/api/top-langs/?username=dn285&theme=transparent&custom_title=computer" />
+  </a>
+</p>
 
 <!--
 **dn285/dn285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
