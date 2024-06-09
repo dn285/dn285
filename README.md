@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats-self-eta-13.vercel.app/api?username=dn285&show_icons=true&theme=transparent&hide=stars,issues,contribs&show=reviews,prs_merged" />
+    <img align="left" src="https://github-readme-stats-self-eta-13.vercel.app/api?username=dn285&show_icons=true&theme=transparent&hide=stars,issues,contribs&show=reviews,prs_merged&hide_rank=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats-self-eta-13.vercel.app/api/top-langs/?username=dn285&layout=compact&theme=transparent&custom_title=computer" />
